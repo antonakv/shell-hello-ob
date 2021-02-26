@@ -41,7 +41,7 @@ $
 ```bash
 bash helloscript.sh
 ```
-Expected result
+Expected result:
 ```bash
 $ bash helloscript.sh
 hello
